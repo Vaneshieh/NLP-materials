@@ -3,4 +3,4 @@ Materials in this folder mostly come from the NLP class taught by Professor Tham
 
 The projects are done myself, including codes and reports. 
 
--Packages used in my code mainly include Keras, Pytorch, Tensorflow
+Packages used in my code mainly include Keras, Pytorch, Tensorflow
